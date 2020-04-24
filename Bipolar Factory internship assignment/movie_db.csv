@@ -1,0 +1,395 @@
+,Celebrity,Image,Bio,Trait
+0,Aamir Khan,"https://m.media-amazon.com/images/M/MV5BMjAwMjk3NDUzN15BMl5BanBnXkFtZTcwNjI4MTY0NA@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451148/bio?ref_=nm_ov_bio_sm,"['Short, yet muscular stature', 'Frequently collaborates with Rajkumar Hirani', 'height is 1.6 m']"
+1,Akshay Kumar,"https://m.media-amazon.com/images/M/MV5BODI4NDY1NzkyM15BMl5BanBnXkFtZTgwNzM3MDM0OTE@._V1_UY209_CR13,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0474774/bio?ref_=nm_ov_bio_sm,"['Performs his own stunta', 'Heavy, yet raspy voice', 'height is 1.7 m']"
+2,Ajay Devgn,"https://m.media-amazon.com/images/M/MV5BMTY0MDY2MDMwOV5BMl5BanBnXkFtZTgwNDE4MDM0OTE@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0222426/bio?ref_=nm_ov_bio_sm,"['Intense Eyes', 'Chocolatey Eyes', 'height is 1.7 m']"
+3,Amjad Khan,"https://m.media-amazon.com/images/M/MV5BOWUzNjU3YTUtOGIyMi00MDk3LTk1NDMtMzY4MDZlNDFhNTFhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR73,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451166/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+4,Amitabh Bachchan,"https://m.media-amazon.com/images/M/MV5BNTk1OTUxMzIzMV5BMl5BanBnXkFtZTcwMzMxMjI0Nw@@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0000821/bio?ref_=nm_ov_bio_sm,"['His baritone voice', 'height is 1.8 m']"
+5,Amol Palekar,"https://m.media-amazon.com/images/M/MV5BNzZhNDQ1YzItNTVlOC00MmVmLTkzMjEtMDFmN2Q0MDU2YmQ3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR21,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0657505/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+6,Abhay Deol,"https://m.media-amazon.com/images/M/MV5BMTU2NzkzODA3OV5BMl5BanBnXkFtZTcwMzk2MDMyOA@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1867717/bio?ref_=nm_ov_bio_sm,"['Has done majority of work with debutant directors; rather unusual and daring in the context of ""star driven"" Hindi film industry', 'height is 1.8 m']"
+7,Akshaye Khanna,"https://m.media-amazon.com/images/M/MV5BMjAxNDQyNDkxM15BMl5BanBnXkFtZTcwNTQyNTA0MQ@@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451379/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+8,Arshad Warsi,"https://m.media-amazon.com/images/M/MV5BNmMwOGYwMjUtN2M5My00ODIxLWI3ZjctODM2MGI4OGQzOWM0XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451174/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+9,Anushka Shetty,"https://m.media-amazon.com/images/M/MV5BZTkxYmU1NmUtNGE4Ni00OWNmLWE5YzktNTJiZTlmMTIyMTM5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2011932/bio?ref_=nm_ov_bio_sm,"['Her Height', 'Her Smile', 'height is 1.7 m']"
+10,Atul Kulkarni,"https://m.media-amazon.com/images/M/MV5BY2E1ODI1MGUtYWY1ZS00ZDdlLTg0ZDctNWU1NmJhM2UxYzU5XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY209_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0474609/bio?ref_=nm_ov_bio_sm,
+11,Asrani,"https://m.media-amazon.com/images/M/MV5BMjEyNDQ4MzUzNF5BMl5BanBnXkFtZTgwNjY3OTczOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2147526/bio?ref_=nm_ov_bio_sm,
+12,Ayushmann Khurrana,"https://m.media-amazon.com/images/M/MV5BOTk4MDY4ODAwNl5BMl5BanBnXkFtZTcwNzQ0MjY2Nw@@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm4731677/bio?ref_=nm_ov_bio_sm,"['Awesome Voice', 'Cute Smile', 'height is 1.6 m']"
+13,Aruna Irani,"https://m.media-amazon.com/images/M/MV5BYWIzYjZkZTAtNDM0MS00YjBiLWJlMjItZDY1YTJhNjMxNTExXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0045119/bio?ref_=nm_ov_bio_sm,
+14,Annu Kapoor,"https://m.media-amazon.com/images/M/MV5BMjE4MjAxODk1NV5BMl5BanBnXkFtZTcwODQ0MjY2Nw@@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0438465/bio?ref_=nm_ov_bio_sm,
+15,Ashish Vidyarthi,"https://m.media-amazon.com/images/M/MV5BMzk5Mzc5Y2YtYjJjYy00OGIyLTg4MzctZTMxNDBiYzY2MTcxXkEyXkFqcGdeQXVyNjc0MTQwOTc@._V1_UY209_CR116,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0896573/bio?ref_=nm_ov_bio_sm,
+16,Adil Hussain,"https://m.media-amazon.com/images/M/MV5BN2Q2YzA4MDMtMzVkYy00ZTMwLTgzN2EtZTc4NTRiODhkNzM3XkEyXkFqcGdeQXVyMjA4ODEzMzE@._V1_UY209_CR17,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1300009/bio?ref_=nm_ov_bio_sm,['height is 1.8 m']
+17,Anupam Kher,"https://m.media-amazon.com/images/M/MV5BMjMyMjc1OTgzNF5BMl5BanBnXkFtZTgwMDY1NDMzOTE@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451600/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+18,Anil Kapoor,"https://m.media-amazon.com/images/M/MV5BMjUyMWE5MjUtMDlkMC00ODc0LThkOTgtNjZhNDgyMTU5ZDhlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0438463/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+19,Amrish Puri,"https://m.media-amazon.com/images/M/MV5BYWRlMTk2NWYtYjhjNy00NmRjLTg4NWMtMmM2YjJlN2YwNWE4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0700869/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+20,Amole Gupte,"https://m.media-amazon.com/images/M/MV5BZmNhMWQyOGYtYmZkMy00ZjdjLWE4N2QtYjc0NzEyZjViZWQzXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR11,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1244760/bio?ref_=nm_ov_bio_sm,Directs movies with children as main protagonists
+21,Boman Irani,"https://m.media-amazon.com/images/M/MV5BNTc4ZjFlMjUtODU3MS00M2JhLTlkMzEtMmIyODFiMjAwZmJhXkEyXkFqcGdeQXVyNTE0MDc0NTM@._V1_UY209_CR62,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1224082/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+22,Balraj Sahni,"https://m.media-amazon.com/images/M/MV5BZDgwMGMzMWUtMmQ1Yi00NjM0LTlkMDgtMTk5MmFkMWJhNDY1XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR10,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0756379/bio?ref_=nm_ov_bio_sm,
+23,Bharat Bhushan,"https://m.media-amazon.com/images/M/MV5BODIwNGY2OGItN2I4Ny00Y2ExLWEzZmQtMTI0M2IxMWQxYTU5XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR2,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0080445/bio?ref_=nm_ov_bio_sm,
+24,Chiranjeevi,"https://m.media-amazon.com/images/M/MV5BOGQ4MTc3MWYtNmUxNi00Nzk3LWFjMDItM2Y1NmVmMDEyNWIxXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0158112/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+25,Chunky Pandey,"https://m.media-amazon.com/images/M/MV5BMTk5NjI3MTEwNF5BMl5BanBnXkFtZTgwMzU2MTMzOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0659233/bio?ref_=nm_ov_bio_sm,['height is 1.8 m']
+26,Danny Denzongpa,"https://m.media-amazon.com/images/M/MV5BMzI4Njg3OTcyNF5BMl5BanBnXkFtZTcwNzQzMTYxOA@@._V1_UY209_CR11,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0219939/bio?ref_=nm_ov_bio_sm,
+27,Darsheel Safary,"https://m.media-amazon.com/images/M/MV5BMjYyYzViMmYtMjU4Yi00NGM3LWFjZTEtZmFkOGFmOTllY2I2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR4,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2594301/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+28,Deepak Tijori,"https://m.media-amazon.com/images/M/MV5BNmIwYzhiNjUtYmY3NS00YjdhLTlkM2UtZDJhZDJiNDkzNDI5XkEyXkFqcGdeQXVyNDY2Nzg2NQ@@._V1_UY209_CR34,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0863120/bio?ref_=nm_ov_bio_sm,
+29,Dharmendra,"https://m.media-amazon.com/images/M/MV5BMTk0ODU5NjAzMl5BMl5BanBnXkFtZTcwNDYyOTM5NA@@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004429/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+30,Deepika Padukone,"https://m.media-amazon.com/images/M/MV5BNGFlYzAyYjgtNzRjNS00NmE4LTliOGYtYzBkYzU5MzRhMDM0XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2138653/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+31,Dimple Kapadia,"https://m.media-amazon.com/images/M/MV5BNTc4MTE1NDU5MF5BMl5BanBnXkFtZTcwNDI2MTcxOA@@._V1_UY209_CR81,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0438092/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+32,Dev Anand,"https://m.media-amazon.com/images/M/MV5BMTk5MDI0OTQzOF5BMl5BanBnXkFtZTcwMTgwMzEzMQ@@._V1_UY209_CR69,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0007147/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+33,Deepti Naval,"https://m.media-amazon.com/images/M/MV5BYjhjNWM1MmUtM2M3My00MWZmLWE5NDYtNTI5YTM3MWQwNGVhXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0622732/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+34,Dilip Kumar,"https://m.media-amazon.com/images/M/MV5BMzg0NTM0MjYxN15BMl5BanBnXkFtZTcwMzY1NTAzMQ@@._V1_UY209_CR68,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0474801/bio?ref_=nm_ov_bio_sm,"['His deep, rich voice', 'height is 1.7 m']"
+35,Farooq Shaikh,"https://m.media-amazon.com/images/M/MV5BNzY3ODZmNDctZDA0ZC00NGNmLTgzZmItM2JhMTI4MzM3NTU2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0787582/bio?ref_=nm_ov_bio_sm,
+36,Farhan Akhtar,"https://m.media-amazon.com/images/M/MV5BMjA4MjYwNzAzM15BMl5BanBnXkFtZTcwMzUyMTUxNw@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1027719/bio?ref_=nm_ov_bio_sm,"['Stunning visuals', 'Wide angle tracking shots', 'height is 1.7 m']"
+37,Feroz Khan,"https://m.media-amazon.com/images/M/MV5BN2NjODM2NDItYTU0Ni00MzJmLWJkZTYtMjQ3ZDZjZmNjY2NhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451211/bio?ref_=nm_ov_bio_sm,['height is 1.8 m']
+38,Farida Jalal,"https://m.media-amazon.com/images/M/MV5BZGE2OTUzZDEtZWQ2Ny00YTQ0LWEyYmItYmRiYjMxNTFiYzYwXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0416077/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+39,Guru Dutt,"https://m.media-amazon.com/images/M/MV5BMjA0Mzg2NjEwN15BMl5BanBnXkFtZTgwODQ1NDQzNzE@._V1_UY209_CR69,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0244870/bio?ref_=nm_ov_bio_sm,['Revolutionized the close-up shot and used it in all of his films.']
+40,Govinda,"https://m.media-amazon.com/images/M/MV5BNzEwNDgwMTk3Nl5BMl5BanBnXkFtZTgwNjMwOTU4MDI@._V1_UY209_CR14,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0332871/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+41,Gulshan Grover,"https://m.media-amazon.com/images/M/MV5BM2FmZGY4NDctMzczOC00MTg3LWExZDUtYWU5NTNkMTA4YzZhXkEyXkFqcGdeQXVyODI0MDE3OQ@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004109/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+42,Gurpreet Ghuggi,"https://m.media-amazon.com/images/M/MV5BODJhZWQ3NGEtZDFmYS00YTc3LTllMzctZGFlM2U0NjliYTczXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1836657/bio?ref_=nm_ov_bio_sm,
+43,Girish Karnad,"https://m.media-amazon.com/images/M/MV5BMTkyNDk3MjEzN15BMl5BanBnXkFtZTYwOTQyODEz._V1_UY209_CR16,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0439784/bio?ref_=nm_ov_bio_sm,
+44,Hrithik Roshan,"https://m.media-amazon.com/images/M/MV5BZjYwYjE4YjQtMTFmMi00NTlhLThjZjUtZTIyMTczMGU2ZDE5XkEyXkFqcGdeQXVyNzM2NzM0NDU@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004335/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+45,Huma Qureshi,"https://m.media-amazon.com/images/M/MV5BMTEwMTkyMDY3OTheQTJeQWpwZ15BbWU4MDE1MjEyMzkx._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm4806622/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+46,Inaamulhaq,"https://m.media-amazon.com/images/M/MV5BNTlkNmU1N2YtZGI2OC00YjkwLWIxM2MtNTZkMmJkYTQ4YWE1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_UY209_CR10,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm4189429/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+47,Irrfan Khan,"https://m.media-amazon.com/images/M/MV5BNDg3NDgxNzY4NF5BMl5BanBnXkFtZTcwODMxODQzMg@@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451234/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+48,Jackie Shroff,"https://m.media-amazon.com/images/M/MV5BYzczOGViODMtMWY1Yi00ZTAwLTkzZjItYzlmMzU0NmM5YjBmXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UY209_CR16,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0006763/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+49,Jimmy Sheirgill,"https://m.media-amazon.com/images/M/MV5BMjM2MTc1NTk5OF5BMl5BanBnXkFtZTgwOTI4NDczMDE@._V1_UY209_CR86,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0792116/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+50,Jeetendra,"https://m.media-amazon.com/images/M/MV5BYThkMTY3NDktMDBiNy00NWFhLWIyOWEtNGRkNDRiMGJjMjZiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR5,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0420090/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+51,Jaspal Bhatti,"https://m.media-amazon.com/images/M/MV5BZGQzZDgxNGMtZTdjYy00NzI3LThlOGItNjdmOTc5ZjQwYjcwXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY209_CR12,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0080377/bio?ref_=nm_ov_bio_sm,
+52,Johnny Lever,"https://m.media-amazon.com/images/M/MV5BMjMyMTQzMjk1MV5BMl5BanBnXkFtZTgwMDg5MTMzOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0505323/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+53,Kamal Haasan,"https://m.media-amazon.com/images/M/MV5BYmUxNTY0MWItODQ2My00YWMyLWFmODgtNTY1MTQ2ZjEwYzdlXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UY209_CR13,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0352032/bio?ref_=nm_ov_bio_sm,"['Kamal Haasan happens to be the one and only Indian actor bagging more than 18 Filmfare awards.', 'He is fluent in Tamil, English, Telugu, Hindi, Malayalam, Bengali, Kannada and French.', 'height is 1.6 m']"
+54,Kangana Ranaut,"https://m.media-amazon.com/images/M/MV5BMTA2NTg0ODA1ODJeQTJeQWpwZ15BbWU4MDM0NDkxNTMy._V1_UY209_CR4,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2144007/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+55,Konkona Sen Sharma,"https://m.media-amazon.com/images/M/MV5BMTU1NjUxNDYwNV5BMl5BanBnXkFtZTgwOTU3MDM0OTE@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1234298/bio?ref_=nm_ov_bio_sm,
+56,Kader Khan,"https://m.media-amazon.com/images/M/MV5BNWYzY2QzNzUtYmVlYy00MmZjLTgxYjEtNjQyOWI5MzZkMDk4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0434318/bio?ref_=nm_ov_bio_sm,
+57,Kay Kay Menon,"https://m.media-amazon.com/images/M/MV5BMTY4MjgwODk4MF5BMl5BanBnXkFtZTgwNzAxNzE0MjE@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1946407/bio?ref_=nm_ov_bio_sm,['height is 1.8 m']
+58,Kajol,"https://m.media-amazon.com/images/M/MV5BMjIwMjQ5MTQ4N15BMl5BanBnXkFtZTgwOTIyMDU0OTE@._V1_UY209_CR4,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004418/bio?ref_=nm_ov_bio_sm,"['Her uni-brow', 'height is 1.5 m']"
+59,Kulbhushan Kharbanda,"https://m.media-amazon.com/images/M/MV5BMTQ2ODU1NDM0MF5BMl5BanBnXkFtZTcwNjIzNTE3Mw@@._V1_UY209_CR72,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451425/bio?ref_=nm_ov_bio_sm,
+60,Kalki Koechlin,"https://m.media-amazon.com/images/M/MV5BNzI4NDQyMjU2MF5BMl5BanBnXkFtZTgwMzc4ODEzOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm3202701/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+61,Kapil Sharma,"https://m.media-amazon.com/images/M/MV5BMjE5NzI3NjE1Ml5BMl5BanBnXkFtZTgwNTMxMjMzOTE@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm6151574/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+62,Krishna Abhishek,"https://m.media-amazon.com/images/M/MV5BOWJmNDJkYjEtYmY5ZC00NmY5LTgyNTUtN2FjODQyZGZhNmIzL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR10,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2243737/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+63,Karuna Bannerjee,"https://m.media-amazon.com/images/M/MV5BMTg1MzAzMDg0OV5BMl5BanBnXkFtZTgwMjYzMTI1NTE@._V1_UY209_CR74,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0052334/bio?ref_=nm_ov_bio_sm,
+64,Kanwaljit Singh,"https://m.media-amazon.com/images/M/MV5BZGRkNmZiYjItYTk5Yy00ODU1LThkNjAtYWQ4OGZjYTMxMDcwXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR4,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1942776/bio?ref_=nm_ov_bio_sm,['height is 1.8 m']
+65,Lara Dutta,"https://m.media-amazon.com/images/M/MV5BNDk2OTk5NjYwNl5BMl5BanBnXkFtZTcwMzMyMDQ4Mg@@._V1_UY209_CR88,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1069034/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+66,Manjot Singh,"https://m.media-amazon.com/images/M/MV5BNWY2N2E4Y2EtOGI2NS00YjkxLTgwMDAtNGU4MTZjN2RiZjAwXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm3190972/bio?ref_=nm_ov_bio_sm,
+67,Manu Rishi Chadha,"https://m.media-amazon.com/images/M/MV5BMmY4YzA5Y2UtYmI2Yi00MzNmLWJmZjQtYTY3YWYyYzBjYWQ3XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_UY209_CR115,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2286188/bio?ref_=nm_ov_bio_sm,
+68,Mehmood,"https://m.media-amazon.com/images/M/MV5BMzI0OWZlOTQtNGJiNS00YzVhLWE1MGQtZGY3ZWUwYWJiOTZiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR14,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0576454/bio?ref_=nm_ov_bio_sm,
+69,Mukesh Tiwari,"https://m.media-amazon.com/images/M/MV5BMjAxNzA0MzkzNl5BMl5BanBnXkFtZTcwNjMyOTM0MQ@@._V1_UY209_CR89,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0864608/bio?ref_=nm_ov_bio_sm,
+70,Mammootty,"https://m.media-amazon.com/images/M/MV5BOTFjOGIwMmUtY2FlMS00ZWJlLThhOWItY2RmY2JmYTc0YTk5XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0007123/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+71,Makrand Deshpande,"https://m.media-amazon.com/images/M/MV5BNDcyOGU3ODctZjZiZi00OWY1LWEzYjktOTIxNTUwMTAyODMzXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY209_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0221218/bio?ref_=nm_ov_bio_sm,
+72,Madhavan,"https://m.media-amazon.com/images/M/MV5BZjQ4NWIwYzYtOTYwZC00ZDI4LWFmYWEtZjhmNTE3ODVhYzJkXkEyXkFqcGdeQXVyOTc1MzM5MA@@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0534856/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+73,Mohanlal,"https://m.media-amazon.com/images/M/MV5BYjFjZGRjMWYtZTA5MS00OTZkLWI1MjctNDQ2NmQzMWM1NzRhXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_UY209_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0482320/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+74,Mita Vasisht,"https://m.media-amazon.com/images/M/MV5BNGQ4YjkyMzMtM2E4OS00YmMzLWEyY2YtYjY0ZmUzYmEzNzFiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR13,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0890622/bio?ref_=nm_ov_bio_sm,
+75,Manoj Bajpayee,"https://m.media-amazon.com/images/M/MV5BMzUxODk5MmEtZGQxOC00NzUxLWI5YTEtYWFjMjZmZTIwNTA5XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0048075/bio?ref_=nm_ov_bio_sm,"['Often plays man of rural background with strong moral values', 'height is 1.7 m']"
+76,Manoj Joshi,"https://m.media-amazon.com/images/M/MV5BMDdmMDUzMGUtNjBiYy00ZDdiLTlhZWItYmE3MjNjNGViM2U0XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR2,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1259084/bio?ref_=nm_ov_bio_sm,
+77,Madhuri Dixit,"https://m.media-amazon.com/images/M/MV5BNTk0OTFkZGItYTQxMi00YTUwLTlkMGEtMTIyZDNlNDc0MzRlXkEyXkFqcGdeQXVyMTgzNTY5OTc@._V1_UY209_CR34,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0002043/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+78,Mohnish Bahl,"https://m.media-amazon.com/images/M/MV5BZWRlMmFiZWUtYWY3Ni00NDkwLWFlZmQtOWE2NjI2MDUzYTczXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR4,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0046894/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+79,Mithun Chakraborty,"https://m.media-amazon.com/images/M/MV5BMjQwNDUxMzY4Ml5BMl5BanBnXkFtZTgwMTgxMTIzOTE@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0149822/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+80,Mukesh Khanna,"https://m.media-amazon.com/images/M/MV5BMTYwNTk2MTk4MF5BMl5BanBnXkFtZTgwODQ1ODA0OTE@._V1_UY209_CR90,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451383/bio?ref_=nm_ov_bio_sm,
+81,Mukul Dev,"https://m.media-amazon.com/images/M/MV5BODhjYmUzZTctNWY3Yy00ZDBmLTk0NzEtMzg3YzlhYzA0NGI2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0222143/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+82,Madhubala,"https://m.media-amazon.com/images/M/MV5BMTI4MTAzMzc2MV5BMl5BanBnXkFtZTcwMDkyNDAzMQ@@._V1_UY209_CR11,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0534870/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+83,Meena Kumari,"https://m.media-amazon.com/images/M/MV5BMTM2NjQ1Nzg2N15BMl5BanBnXkFtZTcwNDkyNjAzMQ@@._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0474932/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+84,Mala Sinha,"https://m.media-amazon.com/images/M/MV5BMWUyNzlkMDEtMGY4My00M2QwLWEzYjktMzk1YjliNDhiYzc5XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0802366/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+85,Manoj Pahwa,"https://m.media-amazon.com/images/M/MV5BMDM4MTY3YzAtYmJlMC00YjdjLTg4YzgtZTJiMzI5NzJjODg2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR4,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0656644/bio?ref_=nm_ov_bio_sm,
+86,Manoj Kumar,"https://m.media-amazon.com/images/M/MV5BMzUxNTM4MzQ4N15BMl5BanBnXkFtZTgwMjY1ODA0OTE@._V1_UY209_CR34,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0006370/bio?ref_=nm_ov_bio_sm,['height is 1.8 m']
+87,Nassar,"https://m.media-amazon.com/images/M/MV5BMjA3Njc5NjcwOF5BMl5BanBnXkFtZTcwMTgyOTY0OA@@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0621937/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+88,Naseeruddin Shah,"https://m.media-amazon.com/images/M/MV5BMTQ4MDcyOTExOV5BMl5BanBnXkFtZTgwOTQyMDU0OTE@._V1_UY209_CR12,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0787462/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+89,Nandita Das,"https://m.media-amazon.com/images/M/MV5BMTA2NzUwMTAxMDBeQTJeQWpwZ15BbWU4MDQ0MTEyNTEx._V1_UY209_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0201903/bio?ref_=nm_ov_bio_sm,
+90,Nagarjuna Akkineni,"https://m.media-amazon.com/images/M/MV5BMDE5ZTgzN2QtODQzMi00NzYxLWI3ZmMtMzAxNWM0OGM1YjM0XkEyXkFqcGdeQXVyNzc4NzEwNTc@._V1_UY209_CR82,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0015459/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+91,Nana Patekar,"https://m.media-amazon.com/images/M/MV5BMjI4MzQyODYwOF5BMl5BanBnXkFtZTgwMTcxMTIzOTE@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0007113/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+92,Nawazuddin Siddiqui,"https://m.media-amazon.com/images/M/MV5BMTU5NTQwMTI0NV5BMl5BanBnXkFtZTcwNzQyNTgxOA@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1596350/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+93,Nargis,"https://m.media-amazon.com/images/M/MV5BMTY1NzE0ODkzNl5BMl5BanBnXkFtZTcwMDQ2OTAzMQ@@._V1_UY209_CR5,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004291/bio?ref_=nm_ov_bio_sm,"['White Sari', 'First Lady of Indian Cinema']"
+94,Nirupa Roy,"https://m.media-amazon.com/images/M/MV5BNGYxMTdjY2MtMDkzYS00ZGJlLTljZTgtYjlhZGVhYTNhMTE3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR7,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0747131/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+95,Nutan,"https://m.media-amazon.com/images/M/MV5BMTM0MDI4NDIzOV5BMl5BanBnXkFtZTcwNDY1NTAzMQ@@._V1_UY209_CR7,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0638295/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+96,Neeraj Kabi,"https://m.media-amazon.com/images/M/MV5BZTJlZWZiMmUtNTQ0MS00NzliLWI3YjAtNzhiNjVhNWQ2MDExXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm4173131/bio?ref_=nm_ov_bio_sm,
+97,Navin Nischol,"https://m.media-amazon.com/images/M/MV5BNzY5NWIxMDItMzZkNi00YzNiLTkyMWQtZDJlNzEwODA2MDNkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR5,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0632615/bio?ref_=nm_ov_bio_sm,
+98,Nafisa Ali,"https://m.media-amazon.com/images/M/MV5BNDBkYTI0OWMtNmMzOC00MDc5LTgwNGEtZTQ1MGQ2MWViNjAxXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR34,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0019465/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+99,Om Puri,"https://m.media-amazon.com/images/M/MV5BMTc4MjA5ODY4NF5BMl5BanBnXkFtZTcwNjUyMDUxMQ@@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0700875/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+100,Om Prakash,"https://m.media-amazon.com/images/M/MV5BMWE3OTM3ODMtZGIzZC00YjU3LWIyZmItOGYxNDA3Mzg4NTk3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR13,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0695170/bio?ref_=nm_ov_bio_sm,
+101,Pankaj Tripathi,"https://m.media-amazon.com/images/M/MV5BNjdlYjllOGMtYzU1OC00ODZjLWEzOGEtMGViOTYyYjU3YmJiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2690647/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+102,Pran,"https://m.media-amazon.com/images/M/MV5BMTQ1MDc2Mjc2OF5BMl5BanBnXkFtZTcwMTc1MDU4OQ@@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0695199/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+103,Paresh Rawal,"https://m.media-amazon.com/images/M/MV5BMjI4Mjg2MjgxMV5BMl5BanBnXkFtZTgwNDYyMTIzOTE@._V1_UY209_CR88,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0712546/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+104,Priyanka Chopra,"https://m.media-amazon.com/images/M/MV5BMjAxNzUwNjExOV5BMl5BanBnXkFtZTcwNDUyMTUxNw@@._V1_UY209_CR70,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1231899/bio?ref_=nm_ov_bio_sm,"['Beautiful smile', 'Full lips', 'height is 1.6 m']"
+105,Prakash Raj,"https://m.media-amazon.com/images/M/MV5BMjQ2MjA4NjU0MF5BMl5BanBnXkFtZTgwMTgwMDMzOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0695177/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+106,Prabhas,"https://m.media-amazon.com/images/M/MV5BMjliZmI3YmMtYWU1NS00MjVlLTkxZTQtYjIzYzFkNWNjOTZkXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1659141/bio?ref_=nm_ov_bio_sm,"['Height', 'height is 1.8 m']"
+107,Pankaj Kapur,"https://m.media-amazon.com/images/M/MV5BZTY2NjI0ZjYtMDM2My00ZjE1LWFiNmQtYWI3OGY2NDgwNTE3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0438488/bio?ref_=nm_ov_bio_sm,
+108,Prabhu Deva,"https://m.media-amazon.com/images/M/MV5BMTY4MzAyODE3NV5BMl5BanBnXkFtZTcwMjM3Mjc4OQ@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0222150/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+109,Prem Chopra,"https://m.media-amazon.com/images/M/MV5BM2U2OTEzM2UtMjhlNC00NTYxLWI5MDItM2RjYzNhYmNhYWFmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0159159/bio?ref_=nm_ov_bio_sm,['height is 1.8 m']
+110,Pooja Bhatt,"https://m.media-amazon.com/images/M/MV5BNTkxOTIwNzYxMl5BMl5BanBnXkFtZTgwMDE5OTczOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0080324/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+111,Pavan Malhotra,"https://m.media-amazon.com/images/M/MV5BNDlkYzllMDktZDk5OC00NWM5LTgzM2ItMmYxYTM4ZmMwODQ4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR9,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0539497/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+112,Piyush Mishra,"https://m.media-amazon.com/images/M/MV5BMDc5MGFlZTMtMmQ1Zi00YjkxLWE3ZGItZGNkNTExYjJhNGFhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR9,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0592795/bio?ref_=nm_ov_bio_sm,
+113,Prashant Narayanan,"https://m.media-amazon.com/images/M/MV5BNjFlYjBjY2ItMGIxMi00ZTAzLThhMmEtM2M2NDk0OWViYmFlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR10,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1241910/bio?ref_=nm_ov_bio_sm,
+114,Rahul Dev,"https://m.media-amazon.com/images/M/MV5BZjQxMTRhNzktZmM4OS00ZmZlLTkxYzYtMmI1ZWMzNTFmMTdkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR13,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0222144/bio?ref_=nm_ov_bio_sm,
+115,Rahul Bose,"https://m.media-amazon.com/images/M/MV5BMjE2MjY2ODY4N15BMl5BanBnXkFtZTgwNDcwMTE0OTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0097893/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+116,Rekha,"https://m.media-amazon.com/images/M/MV5BNjU2MDU4NzI5OF5BMl5BanBnXkFtZTcwNjQ4Njg5Nw@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004334/bio?ref_=nm_ov_bio_sm,"['Her seductive voice', 'She has mesmeric eyes that she uses with devastating effect', 'height is 1.6 m']"
+117,Ratna Pathak Shah,"https://m.media-amazon.com/images/M/MV5BMjQwMzc5NDQ0NF5BMl5BanBnXkFtZTgwNDg1ODA0OTE@._V1_UY209_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0665550/bio?ref_=nm_ov_bio_sm,
+118,Rajendra Kumar,"https://m.media-amazon.com/images/M/MV5BMTYwY2Y5ZWUtOGMxZC00ZDZlLWEzNGUtYmJkMGU3YTNhNWE3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR17,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0006348/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+119,Rajat Kapoor,"https://m.media-amazon.com/images/M/MV5BNDBlM2ZiZmEtYzYyMC00ZWNlLTkxMzQtOGFlMzgxZDg5NjdhXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR12,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0438494/bio?ref_=nm_ov_bio_sm,
+120,Ranbir Kapoor,"https://m.media-amazon.com/images/M/MV5BMTk2ODU5Mjk2MV5BMl5BanBnXkFtZTcwODEzNDg3OA@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1633541/bio?ref_=nm_ov_bio_sm,
+121,Raghuvir Yadav,"https://m.media-amazon.com/images/M/MV5BNTIzOWZhMjctNTBkMi00YTc0LThhOGYtMDFlZmI4ZmNkZTZiXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0944834/bio?ref_=nm_ov_bio_sm,
+122,Rajkummar Rao,"https://m.media-amazon.com/images/M/MV5BMzAxNWIzOWItMDM1NC00NGMyLWIwMDEtNWZjODEyOTFiZjQ4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm3822770/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+123,Revathy,"https://m.media-amazon.com/images/M/MV5BZjc4NTAwMmQtMWQyMS00NGU4LWEzNmYtZTMyODJhOGZjMGRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0720763/bio?ref_=nm_ov_bio_sm,
+124,Raaj Kumar,"https://m.media-amazon.com/images/M/MV5BZjNlMTdhYjYtODI0My00OTA2LTlkM2QtMGU5N2RhNWVlMWVjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0474855/bio?ref_=nm_ov_bio_sm,
+125,Ramya Krishnan,"https://m.media-amazon.com/images/M/MV5BZThmMmJlZGQtZDgyMy00YmIyLTk1NDQtMGQ0N2EzYzUxMWNiXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UY209_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0471447/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+126,Rajinikanth,"https://m.media-amazon.com/images/M/MV5BMTA3MDcyNzkxMjZeQTJeQWpwZ15BbWU3MDUxMTU4Njg@._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0707425/bio?ref_=nm_ov_bio_sm,"['Style Icon', 'Spiritual nature in real-life', 'height is 1.7 m']"
+127,Rani Mukerji,"https://m.media-amazon.com/images/M/MV5BMjI4MjI2MTEwOV5BMl5BanBnXkFtZTgwMzkxMDU0OTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0611552/bio?ref_=nm_ov_bio_sm,"['Husky voice', 'Queen of Bollywood', 'height is 1.5 m']"
+128,Ranveer Singh,"https://m.media-amazon.com/images/M/MV5BMTExOTcwMDU4NTReQTJeQWpwZ15BbWU3MDA0MjE1MTc@._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm3828984/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+129,Rishi Kapoor,"https://m.media-amazon.com/images/M/MV5BMjJmNjM1YmUtNTA2Zi00Y2U0LTgyZTItMjQ5MTE4NWJhMDgyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR10,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0438501/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+130,Rajesh Khanna,"https://m.media-amazon.com/images/M/MV5BMTQ1OTE5NDEwNV5BMl5BanBnXkFtZTcwNjgzMTcxOA@@._V1_UY209_CR2,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004435/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+131,Raghuvaran,"https://m.media-amazon.com/images/M/MV5BZjM0NmMyZTYtYmY3My00NDFkLTk1YTAtOGE3YTVjMGMyNzQ5XkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0706499/bio?ref_=nm_ov_bio_sm,
+132,Raj Babbar,"https://m.media-amazon.com/images/M/MV5BMTQ1MjEwMjM3MF5BMl5BanBnXkFtZTgwNjM4NDczMDE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0044796/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+133,Raj Kapoor,"https://m.media-amazon.com/images/M/MV5BNjYwODQzMjk3Ml5BMl5BanBnXkFtZTYwNzIxMjky._V1_UY209_CR9,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004292/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+134,Rajit Kapoor,"https://m.media-amazon.com/images/M/MV5BZDhlNDEwMjgtMWY5NC00MGEyLThhODEtZjAyYzIyMmU1ZDUxXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR9,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0438496/bio?ref_=nm_ov_bio_sm,
+135,Radhika Apte,"https://m.media-amazon.com/images/M/MV5BZmQ0NjY5YmItMTAwOC00MWVlLThkZTgtYmZhMDg1ZjY2ODMwXkEyXkFqcGdeQXVyNjM5MTI3ODQ@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm2331000/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+136,Rakhee Gulzar,"https://m.media-amazon.com/images/M/MV5BMDVlNTM4YTUtNjA2My00OWQ0LThjYzAtYmU0ZGQ0NGE3YjQ1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0347901/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+137,Riteish Deshmukh,"https://m.media-amazon.com/images/M/MV5BMTU3NDM3NDM3Ml5BMl5BanBnXkFtZTgwMzk4ODEzOTE@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1299011/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+138,Ranvir Shorey,"https://m.media-amazon.com/images/M/MV5BMTIzOTE5MzMyMl5BMl5BanBnXkFtZTcwMjAyNzAyMg@@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1249116/bio?ref_=nm_ov_bio_sm,['height is 1.8 m']
+139,Richa Chadha,"https://m.media-amazon.com/images/M/MV5BOTQ3MzVkNjUtODYwNi00N2Q2LTg3YTAtNDUxM2JiNDViN2IyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR13,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm3190246/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+140,Rajpal Yadav,"https://m.media-amazon.com/images/M/MV5BMTQ3MTI4MzUyNl5BMl5BanBnXkFtZTgwMjAzMTMzOTE@._V1_UY209_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1056425/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+141,Raju Srivastava,"https://m.media-amazon.com/images/M/MV5BZjc5MTYwYjEtZmJiMC00YzA3LThiZGYtMWY2NjE2ZDNmYWFjXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1555152/bio?ref_=nm_ov_bio_sm,
+142,Randeep Hooda,"https://m.media-amazon.com/images/M/MV5BMjk4NjkxNTkxMl5BMl5BanBnXkFtZTgwMzUwNDA3NDE@._V1_UY209_CR34,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0393535/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+143,Sanjay Mishra,"https://m.media-amazon.com/images/M/MV5BMTM0OTU2NDYyNl5BMl5BanBnXkFtZTYwNTYyNDgy._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0592799/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+144,Shabana Azmi,"https://m.media-amazon.com/images/M/MV5BMTQ1NTE0NDgxMl5BMl5BanBnXkFtZTYwNzMyODEz._V1_UY209_CR19,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0000818/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+145,Shakti Kapoor,"https://m.media-amazon.com/images/M/MV5BMTY2MDE1MTQ2N15BMl5BanBnXkFtZTgwNTk2OTczOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0007106/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+146,Saif Ali Khan,"https://m.media-amazon.com/images/M/MV5BMTUyNjI2NTg3M15BMl5BanBnXkFtZTcwNDEzNDg3OA@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451307/bio?ref_=nm_ov_bio_sm,"['His smile', 'His intense eyes', 'height is 1.6 m']"
+147,Shah Rukh Khan,"https://m.media-amazon.com/images/M/MV5BZDk1ZmU0NGYtMzQ2Yi00N2NjLTkyNWEtZWE2NTU4NTJiZGUzXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451321/bio?ref_=nm_ov_bio_sm,"['His Dimples', 'His Smile', 'height is 1.6 m']"
+148,Sunil Dutt,"https://m.media-amazon.com/images/M/MV5BNzM0OTA3MDAxN15BMl5BanBnXkFtZTgwMzg2OTczOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004570/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+149,Sharman Joshi,"https://m.media-amazon.com/images/M/MV5BYWE5MWNkYWQtZTZjZS00N2U0LTgzNzMtNzZkMzJmMWYzZWNkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0430817/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+150,Shashi Kapoor,"https://m.media-amazon.com/images/M/MV5BNTcyNDUwNzEzNl5BMl5BanBnXkFtZTgwOTMxMjMzOTE@._V1_UY209_CR36,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004434/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+151,Smita Patil,"https://m.media-amazon.com/images/M/MV5BMTU3MTUyMjI4OF5BMl5BanBnXkFtZTgwNDgxNzE4MDE@._V1_UY209_CR2,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0665599/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+152,Surekha Sikri,"https://m.media-amazon.com/images/M/MV5BYzI0NGU4NDQtMjZiZS00Mjc2LTk3Y2ItY2NhYmYwOTEyZjQyXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR34,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0797773/bio?ref_=nm_ov_bio_sm,
+153,Sharman Joshi,"https://m.media-amazon.com/images/M/MV5BYWE5MWNkYWQtZTZjZS00N2U0LTgzNzMtNzZkMzJmMWYzZWNkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0430817/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+154,Shashank Arora,"https://m.media-amazon.com/images/M/MV5BMTcxODc3NzkxOF5BMl5BanBnXkFtZTgwMzUwOTU3MTE@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm3508604/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+155,Shreyas Talpade,"https://m.media-amazon.com/images/M/MV5BMjZhOTQzNTEtNGY4NS00ZmQxLThkMDEtM2M4NDVjMjc0MWNlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR12,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1662277/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+156,Shernaz Patel,"https://m.media-amazon.com/images/M/MV5BNTBjN2U2MTgtZjhhMC00YjE4LWI5ODQtN2EwYmJhNTU4MDdkXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR15,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1617909/bio?ref_=nm_ov_bio_sm,
+157,Seema Biswas,"https://m.media-amazon.com/images/M/MV5BMTczMTgyOTkyOV5BMl5BanBnXkFtZTYwNTQ1MDA0._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0084443/bio?ref_=nm_ov_bio_sm,
+158,Sachin Khedekar,"https://m.media-amazon.com/images/M/MV5BOThiMjlmYzYtNmQ3NC00YzUyLWE4MmUtMjEzMWQxNjMyZmVlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR7,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451561/bio?ref_=nm_ov_bio_sm,
+159,Sunny Deol,"https://m.media-amazon.com/images/M/MV5BMjEwOTA2MjMwMl5BMl5BanBnXkFtZTcwODc3MDgxOA@@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0219971/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+160,Sudesh Lehri,"https://m.media-amazon.com/images/M/MV5BNjVhOGZjYzEtM2Y3MS00OTAyLTg5Y2QtZTQzMDVkZWQyYTI2L2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR9,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm3544809/bio?ref_=nm_ov_bio_sm,
+161,Soumitra Chatterjee,"https://m.media-amazon.com/images/M/MV5BMjI5Mjk4NDc3Ml5BMl5BanBnXkFtZTgwMjczMTI1NTE@._V1_UY209_CR74,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0154164/bio?ref_=nm_ov_bio_sm,
+162,Saeed Jaffrey,"https://m.media-amazon.com/images/M/MV5BMTU4NTAzNTIxMl5BMl5BanBnXkFtZTcwMjkyNzg5Nw@@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0006762/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+163,Shivaji Ganesan,"https://m.media-amazon.com/images/M/MV5BMmI2Nzk4NWQtOTAxNi00ZTIxLTljNDktZDJlZDQ2NDRiODJjXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UY209_CR17,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0304262/bio?ref_=nm_ov_bio_sm,
+164,Sharmila Tagore,"https://m.media-amazon.com/images/M/MV5BMTg4Njc5MzUzNF5BMl5BanBnXkFtZTgwOTYzMTI1NTE@._V1_UY209_CR74,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0846616/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+165,Sheeba Chaddha,"https://m.media-amazon.com/images/M/MV5BNzc0NWJjMjQtM2VhOC00MDAxLWE5ZjItZTNlZDFkYjE1YjE0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR33,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0149441/bio?ref_=nm_ov_bio_sm,
+166,Sridevi,"https://m.media-amazon.com/images/M/MV5BMTQyMjg4Mzk2M15BMl5BanBnXkFtZTcwMjE0MTg2OA@@._V1_UY209_CR18,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004437/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+167,Salman Khan,"https://m.media-amazon.com/images/M/MV5BMjMwNTIxODg0OF5BMl5BanBnXkFtZTgwODg2NzM0OTE@._V1_UY209_CR7,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0006795/bio?ref_=nm_ov_bio_sm,"['His dancing style', 'His smile', 'height is 1.6 m']"
+168,Saurabh Shukla,"https://m.media-amazon.com/images/M/MV5BMTYzMTczOTM2Ml5BMl5BanBnXkFtZTYwNzE4Mzgy._V1_UY209_CR19,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0795661/bio?ref_=nm_ov_bio_sm,
+169,Sanjay Dutt,"https://m.media-amazon.com/images/M/MV5BNzU2NTgwNzY1OF5BMl5BanBnXkFtZTcwMjQxNzcxOA@@._V1_UY209_CR87,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0004569/bio?ref_=nm_ov_bio_sm,"['The orignal Bad Boy of Bollywood', 'Muscular Physique', 'height is 1.7 m']"
+170,Sanjeev Kumar,"https://m.media-amazon.com/images/M/MV5BZmE5YTIwODYtMTA2OC00ZDg1LTk3NmItMGI1NzhjNTZiNjIyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR21,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0474876/bio?ref_=nm_ov_bio_sm,"['Quiver in his voice', 'height is 1.7 m']"
+171,Sudeep,"https://m.media-amazon.com/images/M/MV5BOWFjZGYxZDMtYTBhYy00YWVkLTk2NDUtMmE2NTAyM2Q0OTMyXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1679372/bio?ref_=nm_ov_bio_sm,"['Star Sign : Sagittarius', 'height is 1.8 m']"
+172,Sunil Shetty,"https://m.media-amazon.com/images/M/MV5BODUwMzUyNTUxMl5BMl5BanBnXkFtZTcwNDM2ODIyOA@@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0792911/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+173,Tiger Shroff,"https://m.media-amazon.com/images/M/MV5BNjUyMTQyNDA2M15BMl5BanBnXkFtZTgwNDI4ODEzOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm5899377/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+174,Tom Alter,"https://m.media-amazon.com/images/M/MV5BMjk1NDI0ZjEtMDMwOS00ZTY5LTk3NTEtODYxZWZlNTE4OTZmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR7,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0022758/bio?ref_=nm_ov_bio_sm,
+175,Tinnu Anand,"https://m.media-amazon.com/images/M/MV5BZjM4OWEyOWItNmU0Yy00MjQyLTkyNzYtOTQzNzA1ZTJmOTY0XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR9,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0025627/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+176,Tabu,"https://m.media-amazon.com/images/M/MV5BMTU0ODQ2MjA5NF5BMl5BanBnXkFtZTYwMjczMjA0._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0007102/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+177,Tigmanshu Dhulia,"https://m.media-amazon.com/images/M/MV5BMmVkZTMxMTgtNjk3Ny00Yzc4LWFhZWYtMjBhYTJjN2EwMDViXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR7,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0223606/bio?ref_=nm_ov_bio_sm,
+178,Usha Nadkarni,"https://m.media-amazon.com/images/M/MV5BNDRiOGQ0YWYtNmE0MC00NWM4LTg5YTMtNzAyNjQyZGVkOThjXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0618936/bio?ref_=nm_ov_bio_sm,
+179,Upasna Singh,"https://m.media-amazon.com/images/M/MV5BYzkzNGJjNGMtMTcyMy00YmQ5LTgwMmItNzk4MjBkZWJhMTg1XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR1,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0802251/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+180,Utpal Dutt,"https://m.media-amazon.com/images/M/MV5BMDFiNjgzNGQtMmZkMy00NzNmLWE2MDItYzMzMWQ0ZmE3Yzg4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR91,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0244884/bio?ref_=nm_ov_bio_sm,
+181,Upendra Limaye,"https://m.media-amazon.com/images/M/MV5BN2JkNjFjYzctOTM4NS00NGI3LWFhY2UtZmIwNTZjNzc1YTA3XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR10,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1822342/bio?ref_=nm_ov_bio_sm,
+182,Varun Dhawan,"https://m.media-amazon.com/images/M/MV5BMjM0NTM3ODY4Ml5BMl5BanBnXkFtZTgwNTA4MDM0OTE@._V1_UY209_CR2,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm3315894/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+183,Venkatesh Daggubati,"https://m.media-amazon.com/images/M/MV5BMTkyNDE4OTA0MF5BMl5BanBnXkFtZTgwNjExMTE0OTE@._V1_UY209_CR92,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0893142/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+184,Vijay Raaz,"https://m.media-amazon.com/images/M/MV5BOTc2ODgwODcxOF5BMl5BanBnXkFtZTgwNzM1MzYwMTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0704694/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+185,Vinay Pathak,"https://m.media-amazon.com/images/M/MV5BMTgxODI1NTI2MV5BMl5BanBnXkFtZTgwODgxODYyNjE@._V1_UY209_CR86,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0665555/bio?ref_=nm_ov_bio_sm,
+186,Vikram Gokhale,"https://m.media-amazon.com/images/M/MV5BN2EyYjI5NmEtMDEwZC00ZGYwLWFjZWEtOWVkZjZjMDM0M2IyXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR3,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0324845/bio?ref_=nm_ov_bio_sm,
+187,Vipin Sharma,"https://m.media-amazon.com/images/M/MV5BZjQxYWI5M2UtNTdiZi00OTU0LTk2YTgtYjc3MWFkZGEzMWZkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_UY209_CR150,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1479650/bio?ref_=nm_ov_bio_sm,
+188,Vinod Khanna,"https://m.media-amazon.com/images/M/MV5BMGNlOWMyNDUtMjYzZi00YmE2LThjNTItMjFiOTA3YzBkZjZmXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR12,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0451396/bio?ref_=nm_ov_bio_sm,['height is 1.7 m']
+189,Vyjayanthimala,"https://m.media-amazon.com/images/M/MV5BYWVjYzI1YzctOGJkYS00ZGM5LTg3OGItYmI5ZTIyMGI2ZGI3XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR14,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0904537/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+190,Vidya Balan,"https://m.media-amazon.com/images/M/MV5BNDI3Mjk2MjgzMl5BMl5BanBnXkFtZTcwODQwMjI1OQ@@._V1_UY209_CR2,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1799038/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+191,Vrajesh Hirjee,"https://m.media-amazon.com/images/M/MV5BMTI4OWU4ZDktOGNlNC00NTBlLWJjNTctM2JmYzBhOGFhNWE4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR5,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0386358/bio?ref_=nm_ov_bio_sm,
+192,Waheeda Rehman,"https://m.media-amazon.com/images/M/MV5BMTQ4NzE2OTMyMl5BMl5BanBnXkFtZTcwOTc4MDEzMQ@@._V1_UY209_CR69,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0716851/bio?ref_=nm_ov_bio_sm,['height is 1.5 m']
+193,Yashpal Sharma,"https://m.media-amazon.com/images/M/MV5BMzczOGQwZDMtYWQxYi00NDZhLTlkNWYtMjVkMzhlODcyZmU4XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR6,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm1004985/bio?ref_=nm_ov_bio_sm,
+194,Zeenat Aman,"https://m.media-amazon.com/images/M/MV5BMTg4NDcxNTQ0N15BMl5BanBnXkFtZTgwNTI3OTczOTE@._V1_UX140_CR0,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0023868/bio?ref_=nm_ov_bio_sm,['height is 1.6 m']
+195,Zohra Sehgal,"https://m.media-amazon.com/images/M/MV5BMzA0NDAzZjAtOTFhMi00N2RiLWIxOWUtMTBkY2U0YjI3ZDU2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY209_CR32,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0782247/bio?ref_=nm_ov_bio_sm,
+196,Zarina Wahab,"https://m.media-amazon.com/images/M/MV5BNDZhNzNiY2UtYzRkOS00N2IzLWFmNDctZTNkNTVkODZkZjEwXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_UY209_CR8,0,140,209_AL_.jpg
+",https://www.imdb.com/name/nm0906226/bio?ref_=nm_ov_bio_sm,
