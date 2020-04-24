@@ -1,7 +1,7 @@
 ## Task -
 **_Crawl popular websites & create a database of Indian movie celebrities with their images and personality traits._**
 
-## Proposed solution -
+## Primary solution -
 **_Crawl IMDb.ipynb_**
 
 ## Secondary solution -
