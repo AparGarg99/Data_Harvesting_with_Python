@@ -2,7 +2,7 @@
 - **_Crawl popular websites & create a database of Indian movie celebrities with their images and personality traits._**
 ---
 ## Primary solution -
-- **_Code_** - **_Crawl IMDb.ipynb_**
+- **_Code_** - [**_Crawl IMDb.ipynb_**](https://github.com/AparGarg99/Web-scraping-with-python/blob/master/Bipolar%20Factory%20internship%20assignment/Crawl%20IMDb.ipynb)
 - **_Output Database_** - **_movie_db.csv_**
 ---
 ## Additional file -
