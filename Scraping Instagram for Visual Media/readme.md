@@ -2,7 +2,7 @@
 - **Scrape images and videos from any given Instagram Geotag.**
 ---
 ## Solution -
-- **_Code_** - [**_Code_2.ipynb_**](https://github.com/AparGarg99/Web-scraping-with-python/blob/master/Scraping%20Instagram%20for%20images/Code_2.ipynb)
+- **_Code_** - [**_Code_2.ipynb_**](https://github.com/AparGarg99/Web-scraping-with-python/blob/master/Scraping%20Instagram%20for%20Visual%20Media/Code_2.ipynb)
 - **_Demo_** -
 <img src="https://user-images.githubusercontent.com/54896849/84589901-9ee9e700-ae4f-11ea-8ad1-14436ec5ed47.gif">
 
