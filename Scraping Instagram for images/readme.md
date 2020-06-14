@@ -1,5 +1,5 @@
 ## Task -
-- **Scrape all images from any given Instagram Geotag.**
+- **Scrape images and videos from any given Instagram Geotag.**
 ---
 ## Solution -
 - **_Code_** - [**_Code_2.ipynb_**](https://github.com/AparGarg99/Web-scraping-with-python/blob/master/Scraping%20Instagram%20for%20images/Code_2.ipynb)
