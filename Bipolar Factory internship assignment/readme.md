@@ -9,6 +9,6 @@
 - **_Code_** - [**_Crawl Wikipedia.ipynb_**](https://github.com/AparGarg99/Web-scraping-with-python/blob/master/Bipolar%20Factory%20internship%20assignment/Crawl%20Wikipedia.ipynb)
 ---
 
-#### Thank you for this wonderful opportunity [Harsh Arya](https://www.youtube.com/channel/UCiGMwwKgbsa63nytuQ0YgXg)!! :fire:
+#### Thank you for this wonderful opportunity!! :fire:
 
 
