@@ -1,0 +1,7 @@
+selenium
+bs4
+fake-useragent
+requests
+pandas
+numpy
+webdriver-manager
