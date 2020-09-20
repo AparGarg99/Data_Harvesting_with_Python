@@ -5,8 +5,6 @@ Capture both structured and unstructured life sciences data from publicly availa
   - [Installation](#installation)
   - [Usage](#usage)
   - [Description of Files](#description-of-files)
-  - [Authors](#authors)
-  - [Contributors](#contributors)
   
 ## Installation
 1. Download and unzip the project
