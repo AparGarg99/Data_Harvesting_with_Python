@@ -21,11 +21,11 @@ pip install -r requirements.txt
 
 File Name                                                                                            |  Description
 -----------------                                                                                    |--------------------------------------------------------------------------
-[Code_1.ipynb](https://github.com/AparGarg99/Data_Mining_for_BiosectRx/blob/master/Code_1.ipynb)     |  Separating unique startups which are to be captured in BioHubble.<br /> The platforms focuses only on privately held companies so publicly listed<br />companies on various stock exchanges are removed from the list.
-[Code_2.ipynb](https://github.com/AparGarg99/Data_Mining_for_BiosectRx/blob/master/Code_2.ipynb)     |  This code checks for all the patents and clinical trials listed for<br />each private company and write to an excel template which can be<br />uploaded in the BioHubble platform.
-[Code_3.ipynb](https://github.com/AparGarg99/Data_Mining_for_BiosectRx/blob/master/Code_3.ipynb)     |  This code searches for fund raising rounds from Google News<br /> and capture relevant source links. It also parses the <br />type of funding round, amount and other relevant information from the<br />text of full article. 
-[Code_4.ipynb](https://github.com/AparGarg99/Data_Mining_for_BiosectRx/blob/master/Code_4.ipynb)     |  This code captures relevant news from BioSpace.
-[Code_5.ipynb](https://github.com/AparGarg99/Data_Mining_for_BiosectRx/blob/master/Code_5.ipynb)     |  This code captures relevant news from FiercePharma and FierceBiotech.
-[companies.xlsx](https://github.com/AparGarg99/Data_Mining_for_BiosectRx/blob/master/companies.xlsx) |  Sample list of companies
-[non-public.xlsx] | Output of Code_1. Input of Code_2 and Code_3
+[Code_1.ipynb](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/Code_1.ipynb)     |  Separating unique startups which are to be captured in BioHubble.<br /> The platforms focuses only on privately held companies so publicly listed<br />companies on various stock exchanges are removed from the list.
+[Code_2.ipynb](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/Code_2.ipynb)     |  This code checks for all the patents and clinical trials listed for<br />each private company and write to an excel template which can be<br />uploaded in the BioHubble platform.
+[Code_3.ipynb](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/Code_3.ipynb)     |  This code searches for fund raising rounds from Google News<br /> and capture relevant source links. It also parses the <br />type of funding round, amount and other relevant information from the<br />text of full article. 
+[Code_4.ipynb](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/Code_4.ipynb)     |  This code captures relevant news from BioSpace.
+[Code_5.ipynb](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/Code_5.ipynb)     |  This code captures relevant news from FiercePharma and FierceBiotech.
+[companies.xlsx](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/companies.xlsx) |  Sample list of companies
+[non-public.xlsx](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/non-public.xlsx) | Output of Code_1. Input of Code_2 and Code_3
 
