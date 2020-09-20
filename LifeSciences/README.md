@@ -1,5 +1,4 @@
-# Data_Mining_for_BiosectRx
-Data Mining approaches to harvest data for BiosectRx's proprietary product platform BioHubble. Both structured and unstructured data from publicly available sources of information including government databases, industry portals and blogs were captured using smart tools.
+Capture both structured and unstructured life sciences data from publicly available sources of information including government databases, industry portals and blogs.
 
 ## Summary
 
@@ -32,7 +31,3 @@ File Name                                                                       
 [companies.xlsx](https://github.com/AparGarg99/Data_Mining_for_BiosectRx/blob/master/companies.xlsx) |  Sample list of companies
 [non-public.xlsx] | Output of Code_1. Input of Code_2 and Code_3
 
-## Authors
-* [Apar Garg](https://www.linkedin.com/in/apar-garg-056531149/)
-## Contributors
-* [Divya Shakti](https://www.linkedin.com/in/divyashakti/)
