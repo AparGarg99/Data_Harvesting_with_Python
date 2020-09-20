@@ -1,4 +1,4 @@
-Capture both structured and unstructured life sciences data from publicly available sources of information including government databases, industry portals and blogs.
+Capture structured and unstructured life sciences data from publicly available sources of information including government databases, industry portals and blogs.
 
 ## Summary
 
