@@ -7,15 +7,31 @@ Capture structured and unstructured life sciences data from publicly available s
   - [Description of Files](#description-of-files)
   
 ## Installation
-1. Download and unzip the project
-2. Go to command prompt and open path to project
-3. Enter the following command to install the required dependencies
+## Installation and Usage
+1. Open Anaconda command prompt
+2. Create new anaconda environment
 ```
-pip install -r requirements.txt
+conda create -n "myproject" python==3.8
+```
+3. Activate anaconda environment
+```
+conda activate "myproject"
+```
+4. Open the project
+```
+git clone https://github.com/AparGarg99/Data_Harvesting_with_Python.git
+cd Data_Harvesting_with_Python/LifeSciences
+```
+5. Install the required dependencies
+```
+pip install -r all_requirements.txt
 ```
 ## Usage
-1. Open Jupyter Notebook in your local machine
-2. Execute the codes one by one in the same order
+1. Open Jupyter Notebook
+```
+jupyter notebook
+```
+3. Execute the codes one by one in the same order
 
 ## Description of Files
 
