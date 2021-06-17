@@ -24,7 +24,7 @@ cd Data_Harvesting_with_Python/LifeSciences
 ```
 5. Install the required dependencies
 ```
-pip install -r all_requirements.txt
+pip install -r requirements.txt
 ```
 ## Usage
 1. Open Jupyter Notebook
