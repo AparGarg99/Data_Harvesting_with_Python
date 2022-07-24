@@ -1,5 +1,5 @@
 # Overview 📚
-Scrape the popularity (no. of followers, no. of subscribers) and email address of a given YouTube or Instagram user for onboarding and outreach.
+Scrape the popularity (no. of followers, no. of subscribers etc.) and email address of a given YouTube or Instagram user for onboarding and outreach.
 
 # GUI 👨‍💻
 ![]()<br>
