@@ -12,7 +12,7 @@ Scrape the popularity (no. of followers, no. of subscribers) and email address o
 <br>
 <br>
 
-***Note:*** *The system detects gestures well from both the hands.*
+***Note:*** **
 
 ***Don't forget to give a ⭐ if you like this project !!***
 
