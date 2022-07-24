@@ -2,7 +2,7 @@
 Scrape the popularity (no. of followers, no. of subscribers) and email address of a person on YouTube and/or Instagram for onboarding and outreach.
 
 # GUI 👨‍💻
-![](https://github.com/AparGarg99/RPSGame/blob/master/images/final2.gif)<br>
+![]()<br>
 
 
 # Installation and Usage 🔌
@@ -11,6 +11,7 @@ Scrape the popularity (no. of followers, no. of subscribers) and email address o
 
 <br>
 <br>
+
 ***Note:*** *The system detects gestures well from both the hands.*
 
 ***Don't forget to give a ⭐ if you like this project !!***
