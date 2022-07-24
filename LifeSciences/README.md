@@ -1,13 +1,13 @@
-Capture structured and unstructured life sciences data from publicly available sources of information including government databases, industry portals and blogs.
-
-## Summary
-
+## Table of Contents
+  - [Overview](#overview)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Description of Files](#description-of-files)
   
+## Overview
+Capture structured and unstructured life sciences data from publicly available sources of information including government databases, industry portals and blogs.
+
 ## Installation
-## Installation and Usage
 1. Open Anaconda command prompt
 2. Create new anaconda environment
 ```
