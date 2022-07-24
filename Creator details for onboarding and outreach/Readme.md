@@ -6,12 +6,12 @@ Scrape the popularity (no. of followers, no. of subscribers) and email address o
 
 
 # Installation and Usage 🔌
-1. Refer to the [tutorial](https://github.com/AparGarg99/Tutorials/tree/master/TFOD).
+1. Refer to the [Guide](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Creator%20details%20for%20onboarding%20and%20outreach/Installation%20Guide.docx).
 
 
 <br>
 <br>
+***Note:*** *The system detects gestures well from both the hands.*
 
 ***Don't forget to give a ⭐ if you like this project !!***
 
-***Note:*** *The system detects gestures well from both the hands.*
