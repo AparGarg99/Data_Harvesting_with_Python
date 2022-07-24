@@ -1,13 +1,7 @@
-## Table of Contents
-  - [Overview](#overview)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Description of Files](#description-of-files)
-  
-## Overview
+# Overview
 Capture structured and unstructured life sciences data from publicly available sources of information including government databases, industry portals and blogs.
 
-## Installation
+# Installation
 1. Open Anaconda command prompt
 2. Create new anaconda environment
 ```
@@ -26,14 +20,14 @@ cd Data_Harvesting_with_Python/LifeSciences
 ```
 pip install -r requirements.txt
 ```
-## Usage
+# Usage
 1. Open Jupyter Notebook
 ```
 jupyter notebook
 ```
 3. Execute the codes one by one in the same order
 
-## Description of Files
+# Description of Files
 
 File Name                                                                                            |  Description
 -----------------                                                                                    |--------------------------------------------------------------------------
