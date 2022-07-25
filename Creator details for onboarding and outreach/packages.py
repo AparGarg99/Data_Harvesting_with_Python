@@ -30,3 +30,4 @@ from email.message import EmailMessage
 import smtplib
 import requests
 from io import StringIO
+import shutil
