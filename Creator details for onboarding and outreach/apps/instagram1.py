@@ -119,7 +119,8 @@ def app():
         if not os.path.exists(directory):
             os.makedirs(directory)
         else:
-            os.rmdir(directory)
+            shutil.rmtree(directory)
+            os.makedirs(directory)
             
         urls = list(pd.read_csv(file,header=None)[0].dropna(axis=0))
         df1 = []
