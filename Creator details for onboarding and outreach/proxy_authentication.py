@@ -56,19 +56,20 @@ def create_chromedriver(PROXY_HOST, PROXY_PORT, PROXY_USER, PROXY_PASS):
 
 
     def get_chromedriver(use_proxy=True):
-        chrome_options = uc.ChromeOptions() # new solution
-        chrome_options.add_argument("--window-size=1920,1080")
-        chrome_options.add_argument("--disable-extensions")
-        chrome_options.add_argument('--disable-notifications')
+        chrome_options = uc.ChromeOptions()
+      
+        pluginfile = 'proxy_auth_plugin.zip'
+        with zipfile.ZipFile(pluginfile, 'w') as zp:
+            zp.writestr("manifest.json", manifest_json)
+            zp.writestr("background.js", background_js)   
+        chrome_options.add_extension(pluginfile)
+        
+        chrome_options.add_experimental_option("detach", True)
         chrome_options.add_argument("--mute-audio")
-        chrome_options.add_argument("--start-maximized")
-        chrome_options.add_argument('--disable-gpu')
-        chrome_options.add_argument('--disable-dev-shm-usage')
-        chrome_options.add_argument('--no-sandbox')
-        chrome_options.add_argument('--ignore-certificate-errors')
         chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36")
-
-        driver = uc.Chrome(executable_path=ChromeDriverManager().install(), options=chrome_options)
+        
+        driver =  uc.Chrome(executable_path=ChromeDriverManager().install(),
+                            chrome_options=chrome_options)
         return driver
 
     driver = get_chromedriver(use_proxy=True)
