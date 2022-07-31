@@ -2,7 +2,7 @@
 Scrape the popularity (no. of followers, no. of subscribers etc.) and email address of a given YouTube or Instagram user for onboarding and outreach.
 
 # GUI 👨‍💻
-![]()<br>
+![gui](https://user-images.githubusercontent.com/54896849/182011604-627b2e96-5fc1-424f-a04c-7ce580820ff4.png)<br>
 
 
 # Installation and Usage 🔌
