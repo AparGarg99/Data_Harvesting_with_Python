@@ -23,6 +23,11 @@ pip install -r requirements.txt
 
 
 # Usage 
+**[0_get_cities.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/0_get_cities.py)**
+
+```
+python 0_get_cities.py
+```
 
 **[1_get_restaurant_info1.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)**
 
