@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 # Usage 
 
-[1_get_restaurant_info1](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)
+[1_get_restaurant_info1.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)
 
 ```
 usage: 1_get_restaurant_info1.py [-h] [-c CITY]
@@ -63,7 +63,7 @@ optional arguments:
 
 ```
 
-[2_get_restaurant_info2](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)
+[2_get_restaurant_info2.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)
 
 ```
 usage: 2_get_restaurant_info2.py [-h] [-f FILEPATH]
@@ -77,7 +77,7 @@ optional arguments:
 
 ```
 
-[3_auto_comment](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/3_auto_comment.py)
+[3_auto_comment.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/3_auto_comment.py)
 
 ```
 usage: 3_auto_comment.py [-h] [-f FILEPATH]
@@ -94,17 +94,17 @@ optional arguments:
 
 # Example 
 
-[1_get_restaurant_info1]()
+[1_get_restaurant_info1.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)
 ```
 python 1_get_restaurant_info1.py --name 57
 ```
 
-[2_get_restaurant_info2]()
+[2_get_restaurant_info2.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)
 ```
 python 2_get_restaurant_info2.py --filepath "get_restaurant_info2.csv"
 ```
 
-[3_auto_comment]()
+[3_auto_comment.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/3_auto_comment.py)
 ```
 python 3_auto_comment.py --filepath "auto_comment.csv"
 ```
