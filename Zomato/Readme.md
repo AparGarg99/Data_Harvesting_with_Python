@@ -1,5 +1,5 @@
 # Description
-
+Get information about restaurants on Zomato and give automatic reviews.
 
 # Installation
 1. Install [Anaconda](https://www.anaconda.com/)
