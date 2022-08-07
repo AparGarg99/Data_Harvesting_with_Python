@@ -112,12 +112,17 @@ python 3_auto_comment.py -f "test_input_csv_files/auto_comment.csv"
 # Demo
 **[0_get_cities.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/0_get_cities.py)**
 
+<kbd><img src="https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/demo/demo0.gif"><kbd>
+  
 ![](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/demo/demo0.gif)
 
-**[1_get_restaurant_info1.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)** <br>
+**[1_get_restaurant_info1.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)**
+
 ![](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/demo/demo1.gif)
 
-**[2_get_restaurant_info2.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)** <br>
+**[2_get_restaurant_info2.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)**
 
-**[3_auto_comment.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/3_auto_comment.py)** <br>
+
+**[3_auto_comment.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/3_auto_comment.py)**
+
 ![](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/demo/demo3.gif)
