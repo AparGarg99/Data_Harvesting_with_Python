@@ -96,15 +96,15 @@ optional arguments:
 
 **[1_get_restaurant_info1.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)**
 ```
-python 1_get_restaurant_info1.py --name 57
+python 1_get_restaurant_info1.py -c 57
 ```
 
 **[2_get_restaurant_info2.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)**
 ```
-python 2_get_restaurant_info2.py --filepath "get_restaurant_info2.csv"
+python 2_get_restaurant_info2.py -f "get_restaurant_info2.csv"
 ```
 
 **[3_auto_comment.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/3_auto_comment.py)**
 ```
-python 3_auto_comment.py --filepath "auto_comment.csv"
+python 3_auto_comment.py -f "auto_comment.csv"
 ```
