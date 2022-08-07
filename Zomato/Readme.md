@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 # Usage 
 
-[1_get_restaurant_info1]() 
+[1_get_restaurant_info1](https://github.com/AparGarg99/Data_Harvesting_with_Python/edit/master/Zomato/Readme.md) 
 
 ```
 usage: 1_get_restaurant_info1.py [-h] [-c CITY]
