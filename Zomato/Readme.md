@@ -120,7 +120,8 @@ python 3_auto_comment.py -f "test_input_csv_files/auto_comment.csv"
 
 **[2_get_restaurant_info2.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)**
 
-
+<kbd><img src="https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/demo/demo2.gif"><kbd>
+  
 **[3_auto_comment.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/3_auto_comment.py)**
   
 <kbd><img src="https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/demo/demo3.gif"><kbd>
