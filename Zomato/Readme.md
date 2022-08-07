@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 # Usage 
 
-![1_get_restaurant_info1](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)
+[1_get_restaurant_info1](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)
 
 ```
 usage: 1_get_restaurant_info1.py [-h] [-c CITY]
