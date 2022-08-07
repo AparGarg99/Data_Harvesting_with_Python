@@ -46,48 +46,52 @@ if __name__ ==  '__main__':
 
     ########################################## Give review ##########################################
     for i,link in enumerate(links):
-        print(f'Processing {i+1}/{len(links)}')
+        try:
+            print(f'Processing {i+1}/{len(links)}')
 
-        # go to link
-        driver.get(link+'/reviews')
-        time.sleep(30)
-    
-        # Click on 'Write a Review' button
-        driver.find_element_by_xpath('//*[@id="root"]/div/main/div/section[4]/div/div/section[1]/div/section/a/span').click()
-        time.sleep(30)
-        
-        # Give 4 Star
-        driver.find_elements_by_css_selector('div[class="sc-1q7bklc-5 kHxpSk"]')[-3].click()
-        time.sleep(30)
-        
-        # Get Suggestion chips of what you liked
-        you_liked = ['//*[@id]/section[2]/section/section[2]/section[1]/span[1]',
-                     '//*[@id]/section[2]/section/section[2]/section[1]/span[2]',
-                     '//*[@id]/section[2]/section/section[2]/section[1]/span[3]',
-                     '//*[@id]/section[2]/section/section[2]/section[1]/span[4]',
-                     '//*[@id]/section[2]/section/section[2]/section[1]/span[5]',
-                     '//*[@id]/section[2]/section/section[2]/section[1]/span[6]']
+            # go to link
+            driver.get(link+'/reviews')
+            time.sleep(30)
 
-        index2 = random.randint(0,len(you_liked)-1)
+            # Click on 'Write a Review' button
+            driver.find_element_by_xpath('//*[@id="root"]/div/main/div/section[4]/div/div/section[1]/div/section/a/span').click()
+            time.sleep(30)
 
-        element2 = driver.find_element_by_xpath(you_liked[index2])
+            # Give 4 Star
+            driver.find_elements_by_css_selector('div[class="sc-1q7bklc-5 kHxpSk"]')[-3].click()
+            time.sleep(30)
 
-        
-        # Write the review
-        review_text = [f"I really liked the {element2.text}. Thank you for the wonderful experience. I recommend it to everyone! I would like to come back here again and again."]
-        
-        index3 = random.randint(0,len(review_text)-1)
+            # Get Suggestion chips of what you liked
+            you_liked = ['//*[@id]/section[2]/section/section[2]/section[1]/span[1]',
+                         '//*[@id]/section[2]/section/section[2]/section[1]/span[2]',
+                         '//*[@id]/section[2]/section/section[2]/section[1]/span[3]',
+                         '//*[@id]/section[2]/section/section[2]/section[1]/span[4]',
+                         '//*[@id]/section[2]/section/section[2]/section[1]/span[5]',
+                         '//*[@id]/section[2]/section/section[2]/section[1]/span[6]']
 
-        element3 = review_text[index3]
+            index2 = random.randint(0,len(you_liked)-1)
 
-        print(element3)
-        
-        driver.find_element_by_xpath('//*[@id]/section[2]/section/section[2]/section[4]/section/section/textarea').send_keys(element3)
-        time.sleep(30)
-        
-        # Click on 'Add Review' button
-        driver.find_element_by_xpath('//*[@id]/section[2]/section/section[3]/button/span/span').click()
-        time.sleep(30)
+            element2 = driver.find_element_by_xpath(you_liked[index2])
+
+
+            # Write the review
+            review_text = [f"I really liked the {element2.text}. Thank you for the wonderful experience. I recommend it to everyone! I would like to come back here again and again."]
+
+            index3 = random.randint(0,len(review_text)-1)
+
+            element3 = review_text[index3]
+
+            print(element3)
+
+            driver.find_element_by_xpath('//*[@id]/section[2]/section/section[2]/section[4]/section/section/textarea').send_keys(element3)
+            time.sleep(30)
+
+            # Click on 'Add Review' button
+            driver.find_element_by_xpath('//*[@id]/section[2]/section/section[3]/button/span/span').click()
+            time.sleep(30)
+            
+        except:
+            pass
 
         print('*'*100)
 
