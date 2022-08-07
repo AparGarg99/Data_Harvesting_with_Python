@@ -63,7 +63,7 @@ optional arguments:
 
 ```
 
-[2_get_restaurant_info2]()
+[2_get_restaurant_info2](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)
 
 ```
 usage: 2_get_restaurant_info2.py [-h] [-f FILEPATH]
@@ -77,7 +77,7 @@ optional arguments:
 
 ```
 
-[3_auto_comment]()
+[3_auto_comment](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/3_auto_comment.py)
 
 ```
 usage: 3_auto_comment.py [-h] [-f FILEPATH]
