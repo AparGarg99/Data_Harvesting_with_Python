@@ -1,6 +1,6 @@
 # Description
 * Scrape information about restaurants on Zomato and give automatic reviews.
-* Employed anti-blocking techniques including setting random time intervals between requests, clearing cookies from time to time, and using user agents.
+* Employed multuple Anti-blocking techniques - using optimized chromedriver, setting random time intervals between requests, clearing cookies from time to time, using proxy servers, using user agents.
 
 # Installation
 1. Install [Anaconda](https://www.anaconda.com/)
