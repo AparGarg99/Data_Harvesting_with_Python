@@ -1,6 +1,6 @@
 # Overview 📚
 * Scrape the popularity (no. of followers, no. of subscribers etc.) and email address of a given YouTube or Instagram user for onboarding and outreach.
-* Employed anti-blocking techniques including using optimized chromedriver, setting random time intervals between requests, clearing cookies from time to time, and using proxy servers and user agents.
+* Employed multuple Anti-blocking techniques - using optimized chromedriver, setting random time intervals between requests, clearing cookies from time to time, using proxy servers, using user agents.
 
 # GUI 👨‍💻
 ![gui](https://user-images.githubusercontent.com/54896849/182011604-627b2e96-5fc1-424f-a04c-7ce580820ff4.png)<br>
