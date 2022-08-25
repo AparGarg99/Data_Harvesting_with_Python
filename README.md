@@ -12,4 +12,4 @@ Website                                                                         
 [FierceBiotech](https://www.fiercebiotech.com/) | [✅](https://github.com/AparGarg99/Data_Harvesting_with_Python/tree/master/LifeSciences)
 [Zomato](https://www.zomato.com/) | [✅](https://github.com/AparGarg99/Data_Harvesting_with_Python/tree/master/Zomato)
 
-***<b>Note:</b> The code may not work forever since the page elements are subject to change.***
+**Note:** *The code may not work forever since the page elements are subject to change.*
