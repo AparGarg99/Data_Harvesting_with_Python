@@ -1,3 +1,5 @@
+# Summary
+
 Websites I have scraped till now:
 
 Website                                                                                           |  Project
@@ -10,4 +12,4 @@ Website                                                                         
 [FierceBiotech](https://www.fiercebiotech.com/) | [✅](https://github.com/AparGarg99/Data_Harvesting_with_Python/tree/master/LifeSciences)
 [Zomato](https://www.zomato.com/) | [✅](https://github.com/AparGarg99/Data_Harvesting_with_Python/tree/master/Zomato)
 
-Note: The code may not work forever since the page elements are subject to change.
+***<b>Note:</b> The code may not work forever since the page elements are subject to change.***
