@@ -4,7 +4,7 @@
    2. **Instagram** - no. of posts, no. of following, no. of followers, account description, email id (from description), following usernames, tagged post usernames, saved post usernames, last message in DM left unreplied by other person.
 * Employed multuple Anti-blocking techniques - using optimized chromedriver, setting random time intervals between requests, clearing cookies from time to time, using proxy servers, using user agents.
 * Provided the functioanlity to send an email blast (mass email) to potential customers.
-* 
+
 # GUI 👨‍💻
 ![gui](https://user-images.githubusercontent.com/54896849/182011604-627b2e96-5fc1-424f-a04c-7ce580820ff4.png)<br>
 
