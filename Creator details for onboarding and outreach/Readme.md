@@ -1,5 +1,7 @@
 # Overview 📚
-* Scrape the popularity (no. of followers, no. of subscribers etc.) and email address of a given YouTube or Instagram user for onboarding and outreach.
+* Scrape the popularity of a given YouTube or Instagram user for onboarding and outreach.
+  YouTube - channel id, channel url, channel name, playlist id, country, account description, no. of subscribers, no. of views, no. of videos, email id, recommended channels.
+  Instagram - no. of posts, no. of following, no. of followers, account description, email id (from description), following usernames, tagged post usernames, saved post usernames, last message in DM left unreplied by other person.
 * Employed multuple Anti-blocking techniques - using optimized chromedriver, setting random time intervals between requests, clearing cookies from time to time, using proxy servers, using user agents.
 
 # GUI 👨‍💻
