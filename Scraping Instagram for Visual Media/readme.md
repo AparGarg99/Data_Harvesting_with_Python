@@ -13,6 +13,4 @@
 <img src="https://user-images.githubusercontent.com/54896849/84589160-685d9d80-ae4a-11ea-98fc-42d8ae409a4d.gif">
 ---
 
-#### Thank you for this wonderful opportunity [Harsh Arya](https://www.youtube.com/channel/UCiGMwwKgbsa63nytuQ0YgXg) !! :fire:
-
-***Thank you for this wonderful opportunity [Ninety Eight Entertainment](https://www.ninety-eight.in/) !! 🔥***
+#### Thank you for this wonderful opportunity [Ninety Eight Entertainment](https://www.ninety-eight.in/) !! 🔥
