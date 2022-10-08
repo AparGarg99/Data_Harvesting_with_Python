@@ -1,5 +1,5 @@
 # Usage 
-**[1_tagged_posts.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/0_get_cities.py)**
+**[1_tagged_posts.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Creator%20details%20for%20onboarding%20and%20outreach/New%20Functionalities/1_tagged_posts.py)**
 ```
 usage: Scrape tagged posts from an Instagram profile [-h] [-f FILEPATH]
                                                      [-s {manual,auto}] -u
@@ -20,7 +20,7 @@ optional arguments:
                         password to login into Instagram
 ```
 
-**[2_saved_posts.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/1_get_restaurant_info1.py)**
+**[2_saved_posts.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Creator%20details%20for%20onboarding%20and%20outreach/New%20Functionalities/2_saved_posts.py)**
 ```
 usage: Scrape saved posts from an Instagram profile [-h] [-f FILEPATH]
                                                     [-s {manual,auto}]
@@ -36,7 +36,7 @@ optional arguments:
                         (default="auto")
 ```
 
-**[3_inbox_msgs.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Zomato/2_get_restaurant_info2.py)**
+**[3_inbox_msgs.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Creator%20details%20for%20onboarding%20and%20outreach/New%20Functionalities/3_inbox_msgs.py)**
 ```
 usage: Scrape last message in DM left unreplied by other person.
        [-h] [-f FILEPATH] [-wc WORDCOUNT]
@@ -54,18 +54,18 @@ optional arguments:
 
 
 # Example
-**[1_tagged_posts.py]()
+**[1_tagged_posts.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Creator%20details%20for%20onboarding%20and%20outreach/New%20Functionalities/1_tagged_posts.py)**
+
 ```
 python 1_tagged_posts.py -f "test_input_csv_files/tagged_input.csv" -s auto -u xxx -p yyy
 ```
 
-**[2_saved_posts.py]()
+**[2_saved_posts.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Creator%20details%20for%20onboarding%20and%20outreach/New%20Functionalities/2_saved_posts.py)**
 ```
 python 2_saved_posts.py -f "test_input_csv_files/saved_input.csv" -s auto
 ```
 
-**[3_inbox_msgs.py]()
+**[3_inbox_msgs.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/Creator%20details%20for%20onboarding%20and%20outreach/New%20Functionalities/3_inbox_msgs.py)**
 ```
 python -f "test_input_csv_files/Msg_input.csv" -wc 5
 ```
-
