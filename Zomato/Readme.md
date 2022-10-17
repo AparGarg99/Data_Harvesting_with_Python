@@ -1,6 +1,6 @@
 # Description
 * Scrape information (address, contact no., no. of dining reviews, dining review score, no. of delivery reviews, delivery review score, recency i.e. old/new) about restaurants on Zomato and give automatic reviews.
-* Employed multuple Anti-blocking techniques - using optimized chromedriver, setting random time intervals between requests, clearing cookies from time to time, using proxy servers, using user agents.
+* Employed multiple Anti-blocking techniques - using optimized chromedriver, setting random time intervals between requests, clearing cookies from time to time, using proxy servers, using user agents.
 
 # Installation
 1. Install [Anaconda](https://www.anaconda.com/)
