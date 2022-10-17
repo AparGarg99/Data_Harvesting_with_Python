@@ -15,7 +15,6 @@ import numpy as np
 import bs4
 import re
 import argparse
-#os.chdir('C:/Users/apar/Desktop/Work/LinkedIn Scrape')
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 warnings.filterwarnings("ignore")
 
