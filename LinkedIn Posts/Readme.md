@@ -1,5 +1,5 @@
 # Description
-* Scrape job related posts from [LinkedIn](https://www.linkedin.com/).
+Scrape job related posts from [LinkedIn](https://www.linkedin.com/).
 
 # Installation
 1.  Install [Anaconda](https://www.anaconda.com/)
