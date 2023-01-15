@@ -2,7 +2,7 @@
 Capture structured and unstructured life sciences data from publicly available sources of information including government databases, industry portals and blogs.
 
 # GUI 👨‍💻
-![gui](https://user-images.githubusercontent.com/54896849/182011604-627b2e96-5fc1-424f-a04c-7ce580820ff4.png)<br>
+![gui](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/gui_ss.png)<br>
 
 # Installation and Usage 🔌
 1. Open Anaconda command prompt
