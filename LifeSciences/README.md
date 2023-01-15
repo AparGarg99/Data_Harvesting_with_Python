@@ -37,7 +37,7 @@ streamlit run main.py
 
 File Name                                                                                            |  Description
 -----------------                                                                                    |--------------------------------------------------------------------------
-[a_google_finance.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/backend/a_google_finance.py)     |  The platforms focuses only on privately held companies so publicly listed<br />companies on various stock exchanges are removed from the list.
+[a_google_finance.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/backend/a_google_finance.py)     |  We want to focuse only on privately held companies, so publicly listed<br />companies on various stock exchanges are removed from the list.
 [b_google_patent.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/backend/b_google_patent.py)     |  This code checks for all the patents listed for<br />each private company and write to an excel template.
 [c_clinical_trial.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/backend/c_clinical_trial.py)     |  This code checks for all the clinical trials listed for<br />each private company and write to an excel template.
 [d_google_news.py](https://github.com/AparGarg99/Data_Harvesting_with_Python/blob/master/LifeSciences/backend/d_google_news.py)     |  This code searches for fund raising rounds from Google News<br /> and capture relevant source links. It also parses the <br />type of funding round, amount and other relevant information from the<br />text of full article. 
