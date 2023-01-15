@@ -1,0 +1,13 @@
+bs4==0.0.1
+selenium==4.2.0
+webdriver-manager==3.7.0
+undetected-chromedriver==3.1.5.post4
+fake-useragent==0.1.11
+pandas==1.4.2
+regex==2022.9.13
+tqdm==4.64.1
+requests==2.28.1
+streamlit==1.10.0
+urllib3==1.26.13
+XlsxWriter==3.0.3
+openpyxl==3.0.10
