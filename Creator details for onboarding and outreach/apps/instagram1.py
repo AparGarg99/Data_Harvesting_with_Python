@@ -164,7 +164,7 @@ def app():
         df1 = pd.concat(df1).reset_index(drop=True)
         df1.columns = ['Account_url','Stats','Description']
         df2 = df1.drop('Stats',axis=1)
-        df3 = pd.DataFrame(df1["Stats"].to_list(), columns=['Total_posts', 'Following','Followers'])
+        df3 = pd.DataFrame(df1["Stats"].to_list(), columns=['Total_posts', 'Followers','Following'])
         df4 = pd.concat([df2,df3],axis=1)
         df4['Email'] = df4['Description'].apply(lambda x: re.findall('\S+@\S+', str(x)))
         df4 = df4.replace([],np.nan).replace('[]',np.nan)
