@@ -16,3 +16,5 @@ Website                                                                         
 
 
 **Note:** *The code may not work forever since the page elements are subject to change.*
+
+**Additional Note:** These scraping projects are strictly for research purposes. It is not intended for commercial use or resale of any kind.
